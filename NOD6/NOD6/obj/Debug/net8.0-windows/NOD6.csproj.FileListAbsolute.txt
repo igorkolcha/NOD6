@@ -1,0 +1,16 @@
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.exe
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.deps.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.runtimeconfig.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.pdb
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.Form1.resources
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.GenerateResource.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfoInputs.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfo.cs
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.CoreCompileInputs.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\refint\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.pdb
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.genruntimeconfig.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\ref\NOD6.dll
