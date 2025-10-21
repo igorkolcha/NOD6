@@ -29,106 +29,106 @@
         private void InitializeComponent()
         {
             tabControl1 = new TabControl();
-            tabPage1 = new TabPage();
-            tabPage2 = new TabPage();
-            tabPage3 = new TabPage();
-            tabPage4 = new TabPage();
-            tabPage5 = new TabPage();
-            tabPage6 = new TabPage();
-            tabPage7 = new TabPage();
-            tabPage8 = new TabPage();
+            ШЧ = new TabPage();
+            Программы = new TabPage();
+            НОД = new TabPage();
+            Прочие = new TabPage();
+            Станции = new TabPage();
+            Расписание = new TabPage();
+            ЦУП = new TabPage();
+            ТЧ = new TabPage();
             tabControl1.SuspendLayout();
             SuspendLayout();
             // 
             // tabControl1
             // 
-            tabControl1.Controls.Add(tabPage1);
-            tabControl1.Controls.Add(tabPage2);
-            tabControl1.Controls.Add(tabPage3);
-            tabControl1.Controls.Add(tabPage4);
-            tabControl1.Controls.Add(tabPage5);
-            tabControl1.Controls.Add(tabPage6);
-            tabControl1.Controls.Add(tabPage7);
-            tabControl1.Controls.Add(tabPage8);
+            tabControl1.Controls.Add(ШЧ);
+            tabControl1.Controls.Add(Программы);
+            tabControl1.Controls.Add(НОД);
+            tabControl1.Controls.Add(Прочие);
+            tabControl1.Controls.Add(Станции);
+            tabControl1.Controls.Add(Расписание);
+            tabControl1.Controls.Add(ЦУП);
+            tabControl1.Controls.Add(ТЧ);
             tabControl1.Location = new Point(4, 1);
             tabControl1.Name = "tabControl1";
             tabControl1.SelectedIndex = 0;
             tabControl1.Size = new Size(794, 150);
             tabControl1.TabIndex = 0;
             // 
-            // tabPage1
+            // ШЧ
             // 
-            tabPage1.Location = new Point(4, 24);
-            tabPage1.Name = "tabPage1";
-            tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(786, 122);
-            tabPage1.TabIndex = 0;
-            tabPage1.Text = "ШЧ";
-            tabPage1.UseVisualStyleBackColor = true;
+            ШЧ.Location = new Point(4, 24);
+            ШЧ.Name = "ШЧ";
+            ШЧ.Padding = new Padding(3);
+            ШЧ.Size = new Size(786, 122);
+            ШЧ.TabIndex = 0;
+            ШЧ.Text = "ШЧ";
+            ШЧ.UseVisualStyleBackColor = true;
             // 
-            // tabPage2
+            // Программы
             // 
-            tabPage2.Location = new Point(4, 24);
-            tabPage2.Name = "tabPage2";
-            tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(786, 122);
-            tabPage2.TabIndex = 1;
-            tabPage2.Text = "Программы";
-            tabPage2.UseVisualStyleBackColor = true;
+            Программы.Location = new Point(4, 24);
+            Программы.Name = "Программы";
+            Программы.Padding = new Padding(3);
+            Программы.Size = new Size(786, 122);
+            Программы.TabIndex = 1;
+            Программы.Text = "Программы";
+            Программы.UseVisualStyleBackColor = true;
             // 
-            // tabPage3
+            // НОД
             // 
-            tabPage3.Location = new Point(4, 24);
-            tabPage3.Name = "tabPage3";
-            tabPage3.Size = new Size(786, 122);
-            tabPage3.TabIndex = 2;
-            tabPage3.Text = "НОД";
-            tabPage3.UseVisualStyleBackColor = true;
+            НОД.Location = new Point(4, 24);
+            НОД.Name = "НОД";
+            НОД.Size = new Size(786, 122);
+            НОД.TabIndex = 2;
+            НОД.Text = "НОД";
+            НОД.UseVisualStyleBackColor = true;
             // 
-            // tabPage4
+            // Прочие
             // 
-            tabPage4.Location = new Point(4, 24);
-            tabPage4.Name = "tabPage4";
-            tabPage4.Size = new Size(786, 122);
-            tabPage4.TabIndex = 3;
-            tabPage4.Text = "Прочие";
-            tabPage4.UseVisualStyleBackColor = true;
+            Прочие.Location = new Point(4, 24);
+            Прочие.Name = "Прочие";
+            Прочие.Size = new Size(786, 122);
+            Прочие.TabIndex = 3;
+            Прочие.Text = "Прочие";
+            Прочие.UseVisualStyleBackColor = true;
             // 
-            // tabPage5
+            // Станции
             // 
-            tabPage5.Location = new Point(4, 24);
-            tabPage5.Name = "tabPage5";
-            tabPage5.Size = new Size(786, 122);
-            tabPage5.TabIndex = 4;
-            tabPage5.Text = "Станции";
-            tabPage5.UseVisualStyleBackColor = true;
+            Станции.Location = new Point(4, 24);
+            Станции.Name = "Станции";
+            Станции.Size = new Size(786, 122);
+            Станции.TabIndex = 4;
+            Станции.Text = "Станции";
+            Станции.UseVisualStyleBackColor = true;
             // 
-            // tabPage6
+            // Расписание
             // 
-            tabPage6.Location = new Point(4, 24);
-            tabPage6.Name = "tabPage6";
-            tabPage6.Size = new Size(786, 122);
-            tabPage6.TabIndex = 5;
-            tabPage6.Text = "Расписание";
-            tabPage6.UseVisualStyleBackColor = true;
+            Расписание.Location = new Point(4, 24);
+            Расписание.Name = "Расписание";
+            Расписание.Size = new Size(786, 122);
+            Расписание.TabIndex = 5;
+            Расписание.Text = "Расписание";
+            Расписание.UseVisualStyleBackColor = true;
             // 
-            // tabPage7
+            // ЦУП
             // 
-            tabPage7.Location = new Point(4, 24);
-            tabPage7.Name = "tabPage7";
-            tabPage7.Size = new Size(786, 122);
-            tabPage7.TabIndex = 6;
-            tabPage7.Text = "ЦУП";
-            tabPage7.UseVisualStyleBackColor = true;
+            ЦУП.Location = new Point(4, 24);
+            ЦУП.Name = "ЦУП";
+            ЦУП.Size = new Size(786, 122);
+            ЦУП.TabIndex = 6;
+            ЦУП.Text = "ЦУП";
+            ЦУП.UseVisualStyleBackColor = true;
             // 
-            // tabPage8
+            // ТЧ
             // 
-            tabPage8.Location = new Point(4, 24);
-            tabPage8.Name = "tabPage8";
-            tabPage8.Size = new Size(786, 122);
-            tabPage8.TabIndex = 7;
-            tabPage8.Text = "ТЧ";
-            tabPage8.UseVisualStyleBackColor = true;
+            ТЧ.Location = new Point(4, 24);
+            ТЧ.Name = "ТЧ";
+            ТЧ.Size = new Size(786, 122);
+            ТЧ.TabIndex = 7;
+            ТЧ.Text = "ТЧ";
+            ТЧ.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
@@ -145,13 +145,13 @@
         #endregion
 
         private TabControl tabControl1;
-        private TabPage tabPage1;
-        private TabPage tabPage2;
-        private TabPage tabPage3;
-        private TabPage tabPage4;
-        private TabPage tabPage5;
-        private TabPage tabPage6;
-        private TabPage tabPage7;
-        private TabPage tabPage8;
+        private TabPage ШЧ;
+        private TabPage Программы;
+        private TabPage НОД;
+        private TabPage Прочие;
+        private TabPage Станции;
+        private TabPage Расписание;
+        private TabPage ЦУП;
+        private TabPage ТЧ;
     }
 }
