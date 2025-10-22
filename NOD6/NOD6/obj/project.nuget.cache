@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "NZt/OXsXTsw=",
+  "dgSpecHash": "B5m4h+nRAKw=",
   "success": true,
   "projectFilePath": "D:\\Sharp\\Мои проекты\\Projects_ШЧД\\NOD6\\NOD6\\NOD6\\NOD6.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0-rc.2.25502.107\\system.configuration.configurationmanager.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.oledb\\10.0.0-rc.2.25502.107\\system.data.oledb.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0-rc.2.25502.107\\system.diagnostics.eventlog.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.0-rc.2.25502.107\\system.diagnostics.performancecounter.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0-rc.2.25502.107\\system.security.cryptography.protecteddata.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.accesscontrol\\10.0.0-rc.2.25502.107\\system.threading.accesscontrol.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
   "logs": []
 }

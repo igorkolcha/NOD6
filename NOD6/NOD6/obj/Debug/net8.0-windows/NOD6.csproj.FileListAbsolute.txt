@@ -15,3 +15,16 @@ D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-w
 D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.genruntimeconfig.cache
 D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\ref\NOD6.dll
 D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.sourcelink.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.AssemblyReference.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.Up2Date
