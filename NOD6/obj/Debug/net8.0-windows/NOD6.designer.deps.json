@@ -1,0 +1,202 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Stub.System.Data.SQLite.Core.NetStandard/1.0.119": {
+        "runtime": {
+          "lib/netstandard2.1/System.Data.SQLite.dll": {
+            "assemblyVersion": "1.0.119.0",
+            "fileVersion": "1.0.119.0"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/SQLite.Interop.dll": {
+            "rid": "linux-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/osx-x64/native/SQLite.Interop.dll": {
+            "rid": "osx-x64",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win-x64/native/SQLite.Interop.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.119.0"
+          },
+          "runtimes/win-x86/native/SQLite.Interop.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.119.0"
+          }
+        }
+      },
+      "System.Configuration.ConfigurationManager/10.0.0-rc.2.25502.107": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "10.0.0-rc.2.25502.107",
+          "System.Security.Cryptography.ProtectedData": "10.0.0-rc.2.25502.107"
+        },
+        "runtime": {
+          "lib/net8.0/System.Configuration.ConfigurationManager.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      },
+      "System.Data.OleDb/10.0.0-rc.2.25502.107": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "10.0.0-rc.2.25502.107",
+          "System.Diagnostics.PerformanceCounter": "10.0.0-rc.2.25502.107"
+        },
+        "runtime": {
+          "lib/net8.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      },
+      "System.Data.SQLite.Core/1.0.119": {
+        "dependencies": {
+          "Stub.System.Data.SQLite.Core.NetStandard": "1.0.119"
+        }
+      },
+      "System.Diagnostics.EventLog/10.0.0-rc.2.25502.107": {
+        "runtime": {
+          "lib/net8.0/System.Diagnostics.EventLog.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.Messages.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "0.0.0.0"
+          },
+          "runtimes/win/lib/net8.0/System.Diagnostics.EventLog.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/10.0.0-rc.2.25502.107": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "10.0.0-rc.2.25502.107",
+          "System.Threading.AccessControl": "10.0.0-rc.2.25502.107"
+        },
+        "runtime": {
+          "lib/net8.0/System.Diagnostics.PerformanceCounter.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Diagnostics.PerformanceCounter.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/10.0.0-rc.2.25502.107": {
+        "runtime": {
+          "lib/net8.0/System.Security.Cryptography.ProtectedData.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      },
+      "System.Threading.AccessControl/10.0.0-rc.2.25502.107": {
+        "runtime": {
+          "lib/net8.0/System.Threading.AccessControl.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net8.0/System.Threading.AccessControl.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.50307"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stub.System.Data.SQLite.Core.NetStandard/1.0.119": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dI7ngiCNgdm+n00nQvFTa+LbHvE9MIQXwMSLRzJI/KAJ7G1WmCachsvfE1CD6xvb3OXJvYYEfv3+S/LHyhN0Rg==",
+      "path": "stub.system.data.sqlite.core.netstandard/1.0.119",
+      "hashPath": "stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512"
+    },
+    "System.Configuration.ConfigurationManager/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OQQMoKPwc7WLCqTKoHtayw1LziB+PJzREY4A2cigdb6BryacqZ9Tt4dJiLUSmAa7eF+7TR6IYbbdBfLs2JW8NQ==",
+      "path": "system.configuration.configurationmanager/10.0.0-rc.2.25502.107",
+      "hashPath": "system.configuration.configurationmanager.10.0.0-rc.2.25502.107.nupkg.sha512"
+    },
+    "System.Data.OleDb/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kmJV58njPHXweS0wqdRV2Pk+fiBaiJDWokwE5UhQZSpW3nCDWQsJ9uRBXeObdf08KaYDcSyb+5sVR6KLY9K+eA==",
+      "path": "system.data.oledb/10.0.0-rc.2.25502.107",
+      "hashPath": "system.data.oledb.10.0.0-rc.2.25502.107.nupkg.sha512"
+    },
+    "System.Data.SQLite.Core/1.0.119": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bhQB8HVtRA+OOYw8UTD1F1kU+nGJ0/OZvH1JmlVUI4bGvgVEWeX1NcHjA765NvUoRVuCPlt8PrEpZ1thSsk1jg==",
+      "path": "system.data.sqlite.core/1.0.119",
+      "hashPath": "system.data.sqlite.core.1.0.119.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-4l2ZRyhFBiLAjAKo03MShDsK5kaPFmPYuJP3a3oNrHvkIl+2y3sIN3B/v8k/kINUag6Ux2dDhLu7bM63Wfsm2w==",
+      "path": "system.diagnostics.eventlog/10.0.0-rc.2.25502.107",
+      "hashPath": "system.diagnostics.eventlog.10.0.0-rc.2.25502.107.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nced5RasjyNXa9/c6L/ZP099LfaWsyJ1jY2Am7CNIMGHcxsu+vSIUynhKIvnUa9MDaBLtg6eCbowIc9ySn4ZiA==",
+      "path": "system.diagnostics.performancecounter/10.0.0-rc.2.25502.107",
+      "hashPath": "system.diagnostics.performancecounter.10.0.0-rc.2.25502.107.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-48EgMywjKjApv4GlKw20K8NUYg/hf12Qaaj1pzP4V0+enVTz+5+4SzzcAZbjVhveuhqrYYNlqDDtx77+oNg+lw==",
+      "path": "system.security.cryptography.protecteddata/10.0.0-rc.2.25502.107",
+      "hashPath": "system.security.cryptography.protecteddata.10.0.0-rc.2.25502.107.nupkg.sha512"
+    },
+    "System.Threading.AccessControl/10.0.0-rc.2.25502.107": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hv3zd/Z4gdj0F/UXuDhBuK2VZC2G431tsBjmi1+O64ScAzCxKlvXZz0nzhYrdTqr9DnxIbD2O/hLByxPFpxK9w==",
+      "path": "system.threading.accesscontrol/10.0.0-rc.2.25502.107",
+      "hashPath": "system.threading.accesscontrol.10.0.0-rc.2.25502.107.nupkg.sha512"
+    }
+  }
+}

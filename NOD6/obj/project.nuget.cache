@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "JvbJWQGBdM8=",
+  "success": true,
+  "projectFilePath": "D:\\Cod\\GitRepos\\NOD6\\NOD6\\NOD6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.0-rc.2.25502.107\\system.configuration.configurationmanager.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.oledb\\10.0.0-rc.2.25502.107\\system.data.oledb.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.0-rc.2.25502.107\\system.diagnostics.eventlog.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.0-rc.2.25502.107\\system.diagnostics.performancecounter.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.0-rc.2.25502.107\\system.security.cryptography.protecteddata.10.0.0-rc.2.25502.107.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.threading.accesscontrol\\10.0.0-rc.2.25502.107\\system.threading.accesscontrol.10.0.0-rc.2.25502.107.nupkg.sha512"
+  ],
+  "logs": []
+}

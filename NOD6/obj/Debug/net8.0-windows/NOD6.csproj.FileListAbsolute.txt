@@ -1,0 +1,66 @@
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.exe
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.deps.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.runtimeconfig.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.pdb
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.Form1.resources
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.GenerateResource.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfoInputs.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfo.cs
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.CoreCompileInputs.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\refint\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.pdb
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.genruntimeconfig.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\ref\NOD6.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.sourcelink.json
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.AssemblyReference.cache
+D:\Sharp\Мои проекты\Projects_ШЧД\NOD6\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.Up2Date
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.exe
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.deps.json
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.runtimeconfig.json
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\NOD6.pdb
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Threading.AccessControl.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.AssemblyReference.cache
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.Form1.resources
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.GenerateResource.cache
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfoInputs.cache
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.AssemblyInfo.cs
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.CoreCompileInputs.cache
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.sourcelink.json
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.csproj.Up2Date
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.dll
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\refint\NOD6.dll
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.pdb
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.genruntimeconfig.cache
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\ref\NOD6.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\Cod\GitRepos\NOD6\NOD6\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\Cod\GitRepos\NOD6\NOD6\obj\Debug\net8.0-windows\NOD6.FormAddEmployee.resources
