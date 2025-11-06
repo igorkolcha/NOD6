@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NOD6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6100c7f72866bc9654dbd572a7d2bc2777721a66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c59e0a937b282f6b7e57826362ed9a90fdaf968f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NOD6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NOD6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
