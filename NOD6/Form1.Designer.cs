@@ -46,6 +46,7 @@
             ЦУП = new TabPage();
             ТЧ = new TabPage();
             dataGridView1 = new DataGridView();
+            groupBox1 = new GroupBox();
             tabControl1.SuspendLayout();
             ШЧ.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -87,9 +88,9 @@
             // 
             // button_ШЧ_Добавить
             // 
-            button_ШЧ_Добавить.Location = new Point(607, 50);
+            button_ШЧ_Добавить.Location = new Point(605, 43);
             button_ШЧ_Добавить.Name = "button_ШЧ_Добавить";
-            button_ШЧ_Добавить.Size = new Size(111, 23);
+            button_ШЧ_Добавить.Size = new Size(111, 35);
             button_ШЧ_Добавить.TabIndex = 8;
             button_ШЧ_Добавить.Text = "Добавить";
             button_ШЧ_Добавить.UseVisualStyleBackColor = true;
@@ -98,7 +99,7 @@
             // linkLabel_ШЧ_РабочиеТелефоны
             // 
             linkLabel_ШЧ_РабочиеТелефоны.AutoSize = true;
-            linkLabel_ШЧ_РабочиеТелефоны.Location = new Point(605, 20);
+            linkLabel_ШЧ_РабочиеТелефоны.Location = new Point(605, 16);
             linkLabel_ШЧ_РабочиеТелефоны.Name = "linkLabel_ШЧ_РабочиеТелефоны";
             linkLabel_ШЧ_РабочиеТелефоны.Size = new Size(113, 15);
             linkLabel_ШЧ_РабочиеТелефоны.TabIndex = 7;
@@ -108,9 +109,9 @@
             // comboBox_ШЧ_ПоискПоЦехам
             // 
             comboBox_ШЧ_ПоискПоЦехам.FormattingEnabled = true;
-            comboBox_ШЧ_ПоискПоЦехам.Location = new Point(419, 50);
+            comboBox_ШЧ_ПоискПоЦехам.Location = new Point(396, 50);
             comboBox_ШЧ_ПоискПоЦехам.Name = "comboBox_ШЧ_ПоискПоЦехам";
-            comboBox_ШЧ_ПоискПоЦехам.Size = new Size(121, 23);
+            comboBox_ШЧ_ПоискПоЦехам.Size = new Size(155, 23);
             comboBox_ШЧ_ПоискПоЦехам.TabIndex = 6;
             // 
             // label_ШЧ_ПоискПоЦехам
@@ -125,6 +126,7 @@
             // comboBox_ШЧ_ПоискПоУчасткам
             // 
             comboBox_ШЧ_ПоискПоУчасткам.FormattingEnabled = true;
+            comboBox_ШЧ_ПоискПоУчасткам.Items.AddRange(new object[] { "Администрация", "ЛПУ СЦБ1", "ЛПУ СЦБ2", "ЛПУ систем автоматики", "ЛПУ радиосвязи,ГГО,АЛСН", "ЛПУ проводной связи", "Гараж", "РТУ" });
             comboBox_ШЧ_ПоискПоУчасткам.Location = new Point(214, 50);
             comboBox_ШЧ_ПоискПоУчасткам.Name = "comboBox_ШЧ_ПоискПоУчасткам";
             comboBox_ШЧ_ПоискПоУчасткам.Size = new Size(155, 23);
@@ -161,7 +163,7 @@
             Программы.Location = new Point(4, 24);
             Программы.Name = "Программы";
             Программы.Padding = new Padding(3);
-            Программы.Size = new Size(786, 122);
+            Программы.Size = new Size(786, 97);
             Программы.TabIndex = 1;
             Программы.Text = "Программы";
             Программы.UseVisualStyleBackColor = true;
@@ -170,7 +172,7 @@
             // 
             НОД.Location = new Point(4, 24);
             НОД.Name = "НОД";
-            НОД.Size = new Size(786, 122);
+            НОД.Size = new Size(786, 97);
             НОД.TabIndex = 2;
             НОД.Text = "НОД";
             НОД.UseVisualStyleBackColor = true;
@@ -179,7 +181,7 @@
             // 
             Прочие.Location = new Point(4, 24);
             Прочие.Name = "Прочие";
-            Прочие.Size = new Size(786, 122);
+            Прочие.Size = new Size(786, 97);
             Прочие.TabIndex = 3;
             Прочие.Text = "Прочие";
             Прочие.UseVisualStyleBackColor = true;
@@ -188,7 +190,7 @@
             // 
             Станции.Location = new Point(4, 24);
             Станции.Name = "Станции";
-            Станции.Size = new Size(786, 122);
+            Станции.Size = new Size(786, 97);
             Станции.TabIndex = 4;
             Станции.Text = "Станции";
             Станции.UseVisualStyleBackColor = true;
@@ -197,7 +199,7 @@
             // 
             Расписание.Location = new Point(4, 24);
             Расписание.Name = "Расписание";
-            Расписание.Size = new Size(786, 122);
+            Расписание.Size = new Size(786, 97);
             Расписание.TabIndex = 5;
             Расписание.Text = "Расписание";
             Расписание.UseVisualStyleBackColor = true;
@@ -206,7 +208,7 @@
             // 
             ЦУП.Location = new Point(4, 24);
             ЦУП.Name = "ЦУП";
-            ЦУП.Size = new Size(786, 122);
+            ЦУП.Size = new Size(786, 97);
             ЦУП.TabIndex = 6;
             ЦУП.Text = "ЦУП";
             ЦУП.UseVisualStyleBackColor = true;
@@ -215,7 +217,7 @@
             // 
             ТЧ.Location = new Point(4, 24);
             ТЧ.Name = "ТЧ";
-            ТЧ.Size = new Size(786, 122);
+            ТЧ.Size = new Size(786, 97);
             ТЧ.TabIndex = 7;
             ТЧ.Text = "ТЧ";
             ТЧ.UseVisualStyleBackColor = true;
@@ -228,11 +230,21 @@
             dataGridView1.Size = new Size(786, 174);
             dataGridView1.TabIndex = 1;
             // 
+            // groupBox1
+            // 
+            groupBox1.Location = new Point(4, 308);
+            groupBox1.Name = "groupBox1";
+            groupBox1.Size = new Size(789, 386);
+            groupBox1.TabIndex = 2;
+            groupBox1.TabStop = false;
+            groupBox1.Text = "Редактировать";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(797, 696);
+            Controls.Add(groupBox1);
             Controls.Add(dataGridView1);
             Controls.Add(tabControl1);
             Name = "Form1";
@@ -264,5 +276,6 @@
         private Label label_ШЧ_ПоискПоУчасткам;
         private Button button_ШЧ_Добавить;
         private DataGridView dataGridView1;
+        private GroupBox groupBox1;
     }
 }
